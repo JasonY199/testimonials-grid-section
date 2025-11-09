@@ -11,9 +11,10 @@ export default function TestimonialCard({
   return (
     <article
       className={`
-        ${testimonialsData[author].backgroundColor} 
         rounded-lg p-8
         flex flex-col gap-4
+        ${testimonialsData[author].backgroundColor} 
+        ${className ?? ""} 
     `}
     >
       <div className="flex flex-row gap-[17px]">

@@ -37,7 +37,7 @@ export const testimonialsData: TestimonialsDataType = {
     backgroundColor: "bg-grey-500",
     imageBorderColor: "",
     nameColor: "text-white",
-    verifiedColor: "text-grey-300",
+    verifiedColor: "text-[#A3AAB4]",
     headingColor: "text-white",
     quoteColor: "text-grey-100",
   },
