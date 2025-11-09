@@ -13,6 +13,7 @@ export default function TestimonialCard({
       className={`
         rounded-lg p-8
         flex flex-col gap-4
+        shadow-[40px_60px_50px_-47px_rgba(72,85,106,0.24)]
         ${testimonialsData[author].backgroundColor} 
         ${className ?? ""} 
     `}
