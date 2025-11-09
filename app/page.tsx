@@ -1,9 +1,9 @@
-import Image from "next/image";
+import TestimonialCard from "@/components/TestimonialCard";
 
 export default function Home() {
   return (
-    <section>
-      <h1>Testimonials Grid Section</h1>
-    </section>
+    <main className="px-[35px] py-[73]">
+      <TestimonialCard author="daniel" />
+    </main>
   );
 }
