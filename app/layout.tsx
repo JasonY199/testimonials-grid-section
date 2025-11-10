@@ -20,7 +20,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${barlowSemiCondensed.variable} antialiased`}>
+      <body
+        className={`${barlowSemiCondensed.variable} antialiased xl:min-h-screen xl:grid xl:place-items-center`}
+      >
         {children}
       </body>
     </html>

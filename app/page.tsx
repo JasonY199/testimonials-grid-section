@@ -4,7 +4,9 @@ export default function Home() {
   return (
     <main
       className="
-        px-[35px] py-[73]
+        px-[35px] py-[73px]
+        md:px-[60px] md:py-[83px]
+        xl:max-w-[1114px] xl:p-0
         grid grid-cols-1 gap-8
         md:grid-cols-2
         xl:grid-cols-4
