@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://your-solution-url.com)
-- Live Site URL: [Open jasony.dev](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/JasonY199/testimonials-grid-section)
+- Live Site URL: [Open jasony.dev](https://testimonials-grid-section.jasony.dev/)
 
 ## My process
 
